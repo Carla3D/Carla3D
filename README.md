@@ -1,11 +1,11 @@
 # Bienvenidos a mi perfil
-##Sobre mí
+## Sobre mí
 Soy estudiante generalista 3D. Me defino por ser una persona creativa y con muchas ganas de aprender.
-##Intereses
+## Intereses
 -Videojuegos y animación 3D
 -Desarrollo de proyectos multimedia interactivos.
 -Ilustración
-##Tecnología y software
+## Tecnología y software
 Experiencia con:
 -Photoshop 
 -Figma
@@ -13,10 +13,10 @@ Experiencia con:
 -Premiere
 -Maya 
 -Blender
-##Redes
+## Redes
 -Behance
 -Email: molinacarrioncarla@gmail.com
-##Idiomas
+## Idiomas
 -Nivel B2 Inglés (English Cambridge Certificate) 
  -Castellano (Nativo)
 <!--
