@@ -14,7 +14,7 @@ Experiencia con:
 - Maya 
 - Blender
 ## Redes
-- Behance
+- Behance <[Behance](https://www.behance.net/cmcarrionnadow)> 
 - Email: molinacarrioncarla@gmail.com
 ## Idiomas
 - Nivel B2 Inglés (English Cambridge Certificate) 
