@@ -21,6 +21,7 @@ Experiencia con:
  - Castellano (Nativo)
 
  - ![nombre de la imagen][ratafoto.JPG]
+ - ![texto](E:\bunker\scenes\fbxs\ratacosas/ratafoto.JPG)
 <!--
 **Carla3D/Carla3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
